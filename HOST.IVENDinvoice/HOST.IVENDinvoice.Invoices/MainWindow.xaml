@@ -7,7 +7,7 @@
         mc:Ignorable="d ignore"
         Width="350"
         Height="160"
-        Title="Ivend Invoice"
+        Title="Ivend Invoice v01"
         DataContext="{Binding Main, Source={StaticResource Locator}}">
     
     <Window.Resources>
