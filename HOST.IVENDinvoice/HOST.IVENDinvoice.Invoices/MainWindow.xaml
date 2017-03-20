@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:ignore="http://www.galasoft.ch/ignore"
         mc:Ignorable="d ignore"
-        Width="300"
+        Width="350"
         Height="160"
         Title="MVVM Light Application"
         DataContext="{Binding Main, Source={StaticResource Locator}}">
